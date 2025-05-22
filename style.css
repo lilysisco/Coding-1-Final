@@ -1,0 +1,37 @@
+h1 {
+    color:gold;
+    text-align: center;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body.bee-background {
+  background-color: #fff8dc;
+  background-image: url('https://www.transparenttextures.com/patterns/honeycomb.png');
+  background-repeat: repeat;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bee-card {
+  border: 2px solid #f4c430;
+  background-color: #fffbe6;
+  border-radius: 10px;
+}
+
+.bee-button {
+  background-color: #f4c430;
+  border: none;
+  color: #333;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.bee-button:hover {
+  background-color: #e0ac1c;
+  color: white;
+}
+.bees {
+    height:150px;
+}
+.bee-card h4 {
+  margin-bottom: 15px;
+}
